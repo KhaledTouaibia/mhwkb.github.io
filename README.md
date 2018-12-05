@@ -31,14 +31,8 @@ https://mhwkb.github.io/
 
 ### Do we need a mailing list for updates?
 I think our
-[Slack chat workspace](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
-is a good alternative. A user can join and leave at anytime, and will get
-notified by email if there are any global announcements or if they are
-@pinged.
-
-When I use the _@channel_ command in chat, that notifies everyone (unless
-a user has turned that setting off). I don't use _@channel_ very often, so
-email traffic from the workspace will be kept low.
+[Matrix chat room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
+is a good alternative.
 
 But I'm open to feedback about whether or not an email list is desired.
 
@@ -87,6 +81,6 @@ have contributed)
 * [FAQ](FAQ.md)
 
 ## Contact
-* Andy Alt (andy400-dev@yahoo.com)
-* [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
+* [Andy Alt](https://github.com/andy5995/) (andy400-dev@yahoo.com)
+* [Matrix Chat Room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
 * [Issues](https://github.com/mhwkb/mhwkb.github.io/issues)

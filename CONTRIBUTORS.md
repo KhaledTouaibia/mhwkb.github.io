@@ -28,3 +28,5 @@ GitHub's automated list: (former repo) [graphs/contributors](https://github.com/
 | [Megan Barton](https://github.com/dashofnutmeg/) | HTML, CSS, KB |
 | [Vanessa Nimmo](https://github.com/VanessaNimmo)| |
 | [Khaled Touaibia](https://github.com/KhaledTouaibia)| |
+| [Colquhoun King](https://github.com/colquhounking)| |
+| [Babs Craig](https://github.com/babzcraig)| | HTML, CSS |
